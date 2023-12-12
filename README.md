@@ -2,9 +2,12 @@
 
 Shopping cart application developed using react and redux tool kit.
 
-[Demo](https://ashlynz-redux-shoping-cart.netlify.app)
+Demo - [Shopping cart](https://ashlynz-redux-shoping-cart.netlify.app)
 
 #### Steps
 
-npm install
-npm run dev
+```sh
+npm install && npm run dev
+```
+
+- visit url http://localhost:5173
